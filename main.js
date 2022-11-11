@@ -75,3 +75,4 @@ function speak(){
 
     speak_data = "";
 }
+
