@@ -8,7 +8,7 @@ to_number=""
 draw_apple = "";
 
 function preload(){
-  image=loadImage("apple.png")
+  apple=loadImage("apple.png")
   
 }
 
